@@ -31,7 +31,7 @@ body {
     overflow: auto;
     padding: 10px 0px;
     position: absolute;
-    top:40px;
+    top: 40px;
 }
 
 .logo {
@@ -49,7 +49,8 @@ body {
     font-weight: 600;
     font-size: 15px;
 }
-.txt1{    
+
+.txt1 {
     color: #fff;
     padding: 0px 10px;
     font-family: 'Raleway', Arial, Helvetica, sans-serif;
@@ -77,35 +78,41 @@ body {
     color: rgba(255, 255, 255, 0.55);
     font-family: 'Open Sans', sans-serif;
 }
-.div_second{
+
+.div_second {
     width: 100%;
     padding: 88px 0px;
     margin: auto;
 }
-.second_div1{
+
+.second_div1 {
     width: 80%;
     margin: auto;
     overflow: auto;
 }
-.para1{
+
+.para1 {
     width: 33%;
     float: left;
 }
-.h3_txt{
+
+.h3_txt {
     color: #5385C1;
     font-size: 20px;
     margin: 0px 0px 20px 0px;
-    font-family: 'Raleway','Open Sans', Arial, Helvetica, sans-serif;
+    font-family: 'Raleway', 'Open Sans', Arial, Helvetica, sans-serif;
 }
-.p_txt{
-    color:gray;
+
+.p_txt {
+    color: gray;
     font-size: 15px;
     line-height: 24px;
     margin: 0px 0px 30px 0px;
     font-weight: 400;
-    font-family: 'Raleway','Open Sans', Arial, Helvetica, sans-serif;
+    font-family: 'Raleway', 'Open Sans', Arial, Helvetica, sans-serif;
 }
-.btn1{
+
+.btn1 {
     font-size: 15px;
     background-color: #5385C1;
     padding: 10px 22px;
@@ -113,19 +120,152 @@ body {
     color: #fff;
     font-family: 'Raleway', Arial, Helvetica, sans-serif;
 }
-.line{
+
+.line {
     float: left;
     width: 2px;
     height: 210px;
     background-color: #9a9a9a;
 }
-.para2{
+
+.para2 {
     width: 33%;
     float: left;
     padding: 0px 30px;
 }
-.para3{
+
+.para3 {
     width: 33%;
     float: left;
     padding-left: 30px;
 }
+
+.div_third {
+    width: 100%;
+    padding: 88px 0px;
+    background-color: #5385c1;
+    overflow: auto;
+}
+
+.third_div {
+    width: 80%;
+    margin: auto;
+}
+
+.thrd_txt {
+    width: 100%;
+    margin: auto;
+    margin: 0px 0px 50px 0px;
+}
+
+.h2_third_div {
+    color: #fff;
+    font-size: 40px;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+}
+
+.p_third_div {
+    color: #BACEE6;
+    font-size: 15px;
+    text-align: center;
+    margin: 0px 0px 22px 0px;
+}
+
+.thrd_imgs {
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+
+.thrd_img1 {
+    width: 20%;
+    height: 100%;
+    border: 1px solid white;
+    padding: 44px 22px;
+    margin: 0px 53px 30px 0px;
+    float: left;
+}
+
+.img1 {
+    width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    margin: 0px 0px 15px 0px;
+}
+
+.h3_thd_tx1 {
+    color: #fff;
+    font-size: 20px;
+    margin: 0px;
+    text-align: center;
+}
+
+.p_thd_tx2 {
+    color: #fff;
+    font-size: 15px;
+    margin: 0px;
+    text-align: center;
+}
+
+.div_four {
+    width: 100%;
+    margin: auto;
+    padding: 88px 0px;
+}
+
+.four_div {
+    width: 80%;
+    margin: auto;
+}
+
+.four_txt {
+    width: 100%;
+    margin: auto;
+    margin: 0px 0px 50px 0px;
+}
+
+.h2_four_div {
+    color: #5385c1;
+    font-size: 40px;
+    text-align: center;
+    margin: 0px 0px 20px 0px;
+}
+
+.p_four_div {
+    color: #BBBBBB;
+    font-size: 15px;
+    text-align: center;
+    margin: 0px 0px 22px 0px;
+}
+
+.four_imgs {
+    width: 100%;
+    margin: auto;
+    overflow: auto;
+}
+
+.four_img1 {
+    width: 50%;
+    float: left;
+    padding-right: 40px;
+}
+
+.four_img2 {
+    width: 50%;
+    float: right;
+    padding-left: 40px;
+}
+
+.four_img {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.h3_four_tx1 {
+    color: #5385c1;
+    font-size: 20px;
+    margin: 0px 0px 20px 0px;
+}
+
+.p_four_tx2 {}
