@@ -118,6 +118,7 @@ body {
     padding: 10px 22px;
     display: inline-block;
     color: #fff;
+    font-weight: 600;
     font-family: 'Raleway', Arial, Helvetica, sans-serif;
 }
 
@@ -163,6 +164,8 @@ body {
     font-size: 40px;
     text-align: center;
     margin: 0px 0px 20px 0px;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
 
 .p_third_div {
@@ -170,6 +173,8 @@ body {
     font-size: 15px;
     text-align: center;
     margin: 0px 0px 22px 0px;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
 
 .thrd_imgs {
@@ -199,6 +204,8 @@ body {
     font-size: 20px;
     margin: 0px;
     text-align: center;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
 
 .p_thd_tx2 {
@@ -206,6 +213,8 @@ body {
     font-size: 15px;
     margin: 0px;
     text-align: center;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-weight: 100;     
 }
 
 .div_four {
@@ -230,6 +239,8 @@ body {
     font-size: 40px;
     text-align: center;
     margin: 0px 0px 20px 0px;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
 
 .p_four_div {
@@ -237,6 +248,8 @@ body {
     font-size: 15px;
     text-align: center;
     margin: 0px 0px 22px 0px;
+    font-family: 'Raleway', Arial, Helvetica, sans-serif;
+    font-weight: 100;
 }
 
 .four_imgs {
@@ -264,15 +277,19 @@ body {
 
 .h3_four_tx1 {
     color: #5385c1;
-    font-size: 20px;
+    font-size: 13px;
     margin: 0px 0px 20px 0px;
+    font-family: 'Open Sans', sans-serif;;
+    font-weight: 100;
+    
 }
 
 .p_four_tx2 {
     color: #9a9a9a;
     line-height: 22px;
-    font-size: 15px;
+    font-size: 13px;
     margin: 0px 0px 30px 0px;
+    font-family: 'Open Sans', sans-serif;
 }
 .btn_1{
     width: 90px;
@@ -285,6 +302,7 @@ body {
     font-size: 15px;
     padding: 0px 22px;
     display: inline-block;
+    font-weight:600;
 }
 .div_five{
     width: 100%;
@@ -313,7 +331,7 @@ ul{
     display: block;
 }
 li{
-    padding: 0px 10px;
+    padding: 0px 5px;
     display: inline-block;
 }
 .fab{
